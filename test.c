@@ -3,12 +3,12 @@
 void f(void) {
 }
 
-int main() {
+isdasdasd:nt main() {
     void (******dd)(void) = f;
-    printf("git");
+    //printf("git");
     dd();
 
     return 0;
 }
 
-
+jshadsjdfj
